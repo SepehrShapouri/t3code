@@ -16,3 +16,6 @@ release/
 apps/web/.playwright
 apps/web/playwright-report
 apps/web/src/components/__screenshots__
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
